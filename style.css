@@ -1,0 +1,11 @@
+h1{
+    font-size: 50px;
+    color: #AAA;
+    letter-spacing: 10px;
+    font-family: monospace;
+    background-color: bisque;
+}
+
+#test{
+    font-size:100px;
+}
